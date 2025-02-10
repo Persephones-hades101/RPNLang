@@ -1,0 +1,5 @@
+x = 20
+while x 10 >=
+  x = x 2 -
+end
+y = x 5 +

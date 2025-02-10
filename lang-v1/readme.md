@@ -31,7 +31,7 @@ Here, `y` is assigned the result of: `(x * 3) + (10 / 2)`.
 ### Conditional and Loops
 
 ```rpn
-while x >= 10
+while x 10 >=
   x = x 1 -
 end
 ```
@@ -60,7 +60,7 @@ where `script.txt` contains RPNLang code.
 
 ```
 x = 20
-while x >= 10
+while x 10 >=
   x = x 2 -
 end
 y = x 5 +
